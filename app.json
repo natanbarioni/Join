@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "join",
+    "slug": "join",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
